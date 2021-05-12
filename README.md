@@ -35,7 +35,7 @@ We included a [`starter-notebook.md`](./starter-notebook.md) in this repository.
 > ❕ If it's your first time using `docable.cloud`, you will see a list of permissions we need to be able to create your account. Please read them and accept to continue.
 
 <p align="center">
-  <img src="img/docable-github-publishing.png"  width="65%">
+  <img src="img/docable-github-publishing.png"  width="75%">
 </p>
 
 After logging in, you will see a list of your repositories (first login needs to fetch your repos, so it may take few seconds to do that). You can then enable the repositories you want to publish by clicking on the toggle switches on the right. Clicking on the repository name will open the published notebook, which will be hosted at `https://docable.cloud/<REPO_OWNER>/<REPO_NAME>`
