@@ -5,13 +5,16 @@ targets:
       image: node:12-buster
 -->
 
-# Starter Notebook bab
+> ## [Click here 📒](https://docable.cloud/ottomatica/docable-starter-template/starter-notebook.md) to see this published notebook on `docable.cloud`.
+<br>
+
+# Starter Notebook
 
 In this starter notebook, we explain the basic structure of a notebook file as well as some examples of supported interactive content.
 
 Docable notebooks are markdown files which are rendered as an interactive document supporting infrastructure needed for exeuting it. The notebook files consist of two parts:
 
-- ⚙ [Setup (optional)]()
+- ⚙ [Setup (optional)](#-setup-optional)
 - 📄 [Notebook content](#-notebook-content)
 
 ## ⚙ Setup (optional)
