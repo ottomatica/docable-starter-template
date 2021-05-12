@@ -11,7 +11,7 @@ Follow these three simple steps:
 
 ## 📚 Create repository for your notebook
 
-[Click here](https://github.com/ottomatica/docable-starter-template/generate) to use this repository as a template for your first notebook, or alternatively [fork it](https://github.com/ottomatica/docable-starter-template/fork).
+[Click here](https://github.com/ottomatica/docable-starter-template/generate) to use this repository as a _template_ for your first notebook, or alternatively [fork it](https://github.com/ottomatica/docable-starter-template/fork).
 
 Each Docable notebook is managed and stored in its own GitHub repository. Think of a GitHub repository as the whole notebook 📒 and its markdown files as the pages of the notebook 📄. You can create a new repo or use one of your existing ones. However, for this quick onboarding guide we recommend [using this repository as a template](https://github.com/ottomatica/docable-starter-template/generate) because it already contains a few example notebooks which will be useful to use as a starting point.
 
@@ -26,13 +26,13 @@ cd docable-starter-template
 code starter-notebook.md # we're using VS Code here, but feel free to use anything else
 ```
 
-We included a [`starter-notebook.md`](./starter-notebook.md) in this repository. It includes explaination of the structure of a notebook file, and the supported content.
+👉 We included a [`starter-notebook.md`](./starter-notebook.md) in this repository. It includes explaination of the structure of a notebook file, and the supported content.
 
 ## 🚀 Publish
 
 [Login to `https://docable.cloud`](https://docable.cloud/login) using your GitHub account. 
 
-> ❕ If it's your first time using `docable.cloud`, you will see a list of permissions we need to be able to create your account. Please read them and accept to continue.
+> ❕ _If it's your first time using `docable.cloud`, you will see a list of permissions we need to be able to create your account. Please read them and accept to continue._
 
 <p align="center">
   <img src="img/docable-github-publishing.png"  width="75%">
