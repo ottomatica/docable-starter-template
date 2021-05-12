@@ -1,13 +1,13 @@
-> 🚨 If you just landed on this page and you're not sure what Docable notebook is, please take a look at [docable.cloud](https://docable.cloud/) or the project's [readme](https://github.com/ottomatica/docable-notebooks). This repository contains an onboarding guild for how to _use_ Docable.
+> 🚨 If you just landed on this page and you're not sure what a Docable notebook is, please take a look at [docable.cloud](https://docable.cloud/) or the project's [readme](https://github.com/ottomatica/docable-notebooks). This repository contains an onboarding guild for how to _use_ Docable.
 
 # docable-starter-template
 
 Docable empowers you to write and publish your CS course content, tutorials, blog posts as an advanced interactive document on [`https://docable.cloud/`](https://docable.cloud/). Follow this short guide for a quick onboarding and publish your first Docable notebook in the next 10 minutes ⏲.
 
 Follow these three simple steps:
-- 📚 [Create a repo for your notebook](#create-repository-for-your-notebook)
-- ✍ [Write your document](#write-your-notebook)
-- 🚀 [Publish your document](#Publish)
+- 📚 [Create a repo for your notebook](#-create-repository-for-your-notebook)
+- ✍ [Write your document](#-write-your-notebook)
+- 🚀 [Publish your document](#-publish)
 
 ## 📚 Create repository for your notebook
 
