@@ -6,7 +6,6 @@ targets:
 -->
 
 > ## [Click here 📒](https://docable.cloud/ottomatica/docable-starter-template/starter-notebook.md) to see this published notebook on `docable.cloud`.
-<br>
 
 # Starter Notebook
 
@@ -25,14 +24,12 @@ Setup is written as a _commented_ YAML snippet in the beginning your notebook fi
 
 Here is an example for a notebook with one target environment, using `node:12-buster` Docker image. Note, if you don't include a setup snippet at all, this is the default Docable uses:
 
-```
-<!-- 
-targets:
-    - type: docker
-      name: starter-notebook
-      image: node:12-buster
--->
-```
+    <!-- 
+    targets:
+        - type: docker
+        name: starter-notebook
+        image: node:12-buster
+    -->
 
 ## 📄 Notebook content
 
@@ -62,11 +59,11 @@ See some examples of supported content below, or _checkout more advanced example
 #### Command cell with a variable:
 
     ```bash|{type:'command', variables: 'name'}
-    echo "{{name}}"
+    echo "hello {{name}}"
     ```
 
 ```bash|{type:'command', variables: 'name'}
-echo "{{name}}"
+echo "hello {{name}}"
 ```
 
 #### Script cell with language set to js (javascript):
@@ -112,13 +109,13 @@ hello
 #### Quiz cell with language set to js (javascript):
 
     Docable notebooks support embedding a terminal.
-    ```js|{type:'quiz', quiz_type:'singlechoice', quiz_answers:'1'}
+    ```js|{type:'quiz', quiz_type:'singlechoice', quiz_answers:'0'}
     - [ ] true
     - [ ] false
     ```
 
 Docable notebooks support embedding a terminal.
-```js|{type:'quiz', quiz_type:'singlechoice', quiz_answers:'1'}
+```js|{type:'quiz', quiz_type:'singlechoice', quiz_answers:'0'}
 - [ ] true
 - [ ] false
 ```
