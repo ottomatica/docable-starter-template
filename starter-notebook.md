@@ -18,7 +18,7 @@ Docable notebooks are markdown files which are rendered as an interactive docume
 
 ## ⚙ Setup (optional)
 
-> ❕ _The setup is optional and is only recommended if you need to use our more advanced computing environment management features. Otherwise our defaults will usually be sufficient._
+> ❕ _The setup is optional and is only recommended if you need to use our more advanced computing environment management features. Otherwise our defaults will usually be sufficient and you can skip to the next section about notebook content._
 
 Setup is written as a _commented_ YAML snippet in the beginning your notebook file. In setup you can specify settings related to target environments in this notebook. For example, you can configure setup to create multiple target environments which will be accessible in the notebook, or use a specific Docker image.
 
